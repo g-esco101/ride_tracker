@@ -2,7 +2,7 @@ A Spring application that tracks rides. It uses Spring JDBC to access the data t
 
 A main method is not implemented, instead run the tests in the RestControllerTest.java.
 
-Update the dataSource bean in jdbc-config.xml with the url, username, and password.
+Update dataSource in jdbc-config.xml with the url, username, and password.
 
 USES: apache-tomcat-8.0.53
 
