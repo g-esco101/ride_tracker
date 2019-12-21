@@ -6,6 +6,6 @@ Update the dataSource bean in jdbc-config.xml with the url, username, and passwo
 
 USES: apache-tomcat-8.0.53
 
-MySQL: MySQL Server 5.7.17 Connector/J 5.1.48 MySQL Workbench 6.3.8
+MySQL: MySQL Server 5.7.17 Connector/J 5.1.48
 
 The goal of developing this app was to learn more about Spring JDBC. 
