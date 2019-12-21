@@ -1,4 +1,4 @@
-An application that tracks rides. It uses Spring JDBC to access the data tier - i.e. to perform the CRUD operations, batch operations, and exception handling and transactions. Developed by using TDD.
+A Spring application that tracks rides. It uses Spring JDBC to access the data tier - i.e. to perform the CRUD operations, batch operations, and exception handling and transactions. Developed by using TDD.
 
 A main method is not implemented, instead run the tests in the RestControllerTest.java.
 
